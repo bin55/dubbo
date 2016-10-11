@@ -1,1 +1,3 @@
 this is a master txt.
+
+init.txt content append...
